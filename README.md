@@ -1,4 +1,5 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROVCxE_ZrefYV0Zt0cIcQUJg-kT5yfkhj3-w&usqp=CAU)]()
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Ajil Ashok</h1>
 <h3 align="center">A passionate about developing mobile application</h3>
 
