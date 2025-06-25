@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/akshaykhale1992/akshaykhale1992/main/banner.gif" alt="Ajil Ashok Banner" width="100%"/>
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif)]()
 
 <h1 align="center">Hi 👋, I'm Ajil Ashok</h1>
 <h3 align="center">🚀 Passionate Web & Mobile Application Developer</h3>
